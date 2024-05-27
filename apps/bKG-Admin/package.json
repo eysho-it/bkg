@@ -1,5 +1,5 @@
 {
-  "name": "@b-kg-best-known-gp-us/admin",
+  "name": "@bkg/admin",
   "private": true,
   "dependencies": {
     "@apollo/client": "3.6.9",
